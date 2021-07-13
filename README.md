@@ -1,1 +1,1 @@
-https://github.com/Zebrogalka/rsschool-cv/cv
+https://zebrogalka.github.io/rsschool-cv/cv
