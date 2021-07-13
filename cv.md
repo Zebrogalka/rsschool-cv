@@ -1,8 +1,10 @@
 CV
 ===
-1. Колчев А.А. 
+---
+1. Kolchau A.A.  
 2. mail - wildikos@gmail.com 
-3. Навыки - гугление  
-4. Опыт работы в около-IT сфере - отсутсвует   
-5. Образование БГПУ им. М.Танка - соц. педагогика \ практическая психология  
-6. Английский - pre-intermediate (субъективно)  
+3. skills - googling  
+4. IT work expirience - N/A   
+5. Education -BSPU after M.Tank social pedagogy and practical psychology in education  
+6. English - pre-intermediate (IMHO)  
+---
