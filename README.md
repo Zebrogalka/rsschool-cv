@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool learning rep.
+https://github.com/Zebrogalka/rsschool-cv/cv
